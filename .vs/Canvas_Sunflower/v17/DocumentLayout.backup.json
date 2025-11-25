@@ -33,8 +33,7 @@
               "ToolTip": "C:\\Users\\User\\Documents\\Canvas_Sunflower\\Canvas_Sunflower\\MainWindow.xaml",
               "RelativeToolTip": "Canvas_Sunflower\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-25T15:44:09.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T15:44:09.707Z"
             },
             {
               "$type": "Document",
@@ -42,9 +41,9 @@
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Canvas_Sunflower\\Canvas_Sunflower\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Canvas_Sunflower\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Canvas_Sunflower\\Canvas_Sunflower\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Canvas_Sunflower\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Documents\\Canvas_Sunflower\\Canvas_Sunflower\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "Canvas_Sunflower\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T15:44:08.273Z",
               "EditorCaption": ""

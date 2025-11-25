@@ -18,3 +18,4 @@ C:\Users\User\Documents\Canvas_Sunflower\Canvas_Sunflower\obj\Debug\net8.0-windo
 C:\Users\User\Documents\Canvas_Sunflower\Canvas_Sunflower\obj\Debug\net8.0-windows\Canvas_Sunflower.pdb
 C:\Users\User\Documents\Canvas_Sunflower\Canvas_Sunflower\obj\Debug\net8.0-windows\Canvas_Sunflower.genruntimeconfig.cache
 C:\Users\User\Documents\Canvas_Sunflower\Canvas_Sunflower\obj\Debug\net8.0-windows\ref\Canvas_Sunflower.dll
+C:\Users\User\Documents\Canvas_Sunflower\Canvas_Sunflower\obj\Debug\net8.0-windows\Canvas_Sunflower.sourcelink.json

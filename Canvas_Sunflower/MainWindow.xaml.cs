@@ -20,6 +20,19 @@ namespace Canvas_Sunflower
         {
             InitializeComponent();
 
+            Ellipse lisc = new Ellipse
+            {
+                Width = 30,
+                Height = 50,
+                Fill = Brushes.Green,
+                Stroke = Brushes.Black,
+                StrokeThickness = 2,
+                RenderTransform = new RotateTransform(-40, 50, 60) // Obrót wokół środka
+            };
+            Canvas.SetLeft(lisc, 365);
+            Canvas.SetTop(lisc, 200);
+            P.Children.Add(lisc);
+
             //Add petals
             // Uwzględnji wymiary flower, aby kwiatki nie były w flowerze
             for (int i = 0; i < 12; i++)
