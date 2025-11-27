@@ -1,4 +1,6 @@
-﻿using System.Text;
+﻿using System.Net.Sockets;
+using System.Runtime.CompilerServices;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -32,6 +34,7 @@ namespace Canvas_Sunflower
             Canvas.SetLeft(lisc, 365);
             Canvas.SetTop(lisc, 200);
             P.Children.Add(lisc);
+
 
             //Add petals
             // Uwzględnji wymiary flower, aby kwiatki nie były w flowerze
@@ -181,7 +184,20 @@ namespace Canvas_Sunflower
             Canvas.SetTop(mouth2, 190);
             P.Children.Add(mouth2);
 
+            move(lisc);
 
+
+
+        }
+        void move(Ellipse lisc)
+        {
+            for (int i = 0; i < 20; i++)
+            {
+                Canvas.SetTop(lisc, Canvas.GetTop(lisc) + 5);
+                System.Threading.Thread.Sleep(2000); 
+
+
+            }
 
         }
     }
